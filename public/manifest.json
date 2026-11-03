@@ -1,0 +1,9 @@
+{
+  "short_name": "Secure Services",
+  "name": "Secure Services",
+  "icons": [{ "src": "favicon.png", "sizes": "256x256", "type": "image/png" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#050d24",
+  "background_color": "#050d24"
+}
